@@ -1,0 +1,1158 @@
+{
+"1296437108693848065": [
+        {
+            "created_at_str": "Fri Jul 12 09:58:22 +0000 2024",
+            "in_reply_to_status_id_str": "1811548859413487840",
+            "tweet_id": "1811701627675431278",
+            "status_type": 1,
+            "created_at": 1720778302000,
+            "source": "",
+            "retweeted_status_id_str": "",
+            "retweet_count": 0,
+            "platform": "推特",
+            "time_save_db": 1720793827428,
+            "user_id_str": "1296437108693848065",
+            "created_ts": 1720778302,
+            "conversation_id": "1811548859413487840",
+            "a_hashtags": [],
+            "favorite_count": 0,
+            "text": "@hankinbeijing 口误也不少哈哈哈哈",
+            "viewCount": 106,
+            "user_avatar": "https://pbs.twimg.com/profile_images/1665040642639282176/LPINrSNe_normal.jpg",
+            "vedio_minio_path": [],
+            "image_minio_path": "",
+            "user_screen_name": "ccppartyschool",
+            "query": "中共中央",
+            "a_video_medias": [
+                
+            ],
+            "reply_count": 0,
+            "a_photo_medias": [
+                {
+                    "type": "photo",
+                    "media_photo_url": "https://pbs.twimg.com/media/GRO34AZXYAACU-_.jpg"
+                },
+                {
+                    "type": "photo",
+                    "media_photo_url": "https://pbs.twimg.com/media/GRO34AZXYAACU-_.jpg"
+                },
+                {
+                    "type": "photo",
+                    "media_photo_url": "https://pbs.twimg.com/media/GRO34AZXYAACU-_.jpg"
+                }
+            ],
+            "lasttime": 1720793839221,
+            "user_id": "1296437108693848065",
+            "a_urls": [],
+            "tw_client": "",
+            "name": "中共中央党校校长Head of CCP Central Committee Party School",
+            "photo_minio_path": [],
+            "user_mentions": [
+                {
+                    "indices": [
+                        0,
+                        14
+                    ],
+                    "screen_name": "hankinbeijing",
+                    "id_str": "1153412646575546368",
+                    "name": "HANK"
+                }
+            ],
+            "label": "arts and fashion",
+            "label_id": 0,
+            "description": "this is a committee",
+            "location": "China",
+            "followers_count": "222",
+            "friends_count": "222"
+        },
+        {
+            "created_at_str": "Wed Jul 10 08:52:58 +0000 2024",
+            "in_reply_to_status_id_str": "1810694936041533849",
+            "tweet_id": "1810960393260749026",
+            "status_type": 2,
+            "created_at": 1720601578000,
+            "source": "",
+            "retweeted_status_id_str": "",
+            "retweet_count": 0,
+            "platform": "推特",
+            "time_save_db": 1720787086302,
+            "user_id_str": "1296437108693848065",
+            "created_ts": 1720601578,
+            "conversation_id": "1810690351969218568",
+            "a_hashtags": [],
+            "favorite_count": 1,
+            "text": "@ChinaMacroFacts @rand__gen 你怎么说话呢？这说明朝鲜人民吃的都是纯天然有机食品！！朝鲜人民吃的健康放心！！",
+            "viewCount": 82,
+            "user_avatar": "https://pbs.twimg.com/profile_images/1665040642639282176/LPINrSNe_normal.jpg",
+            "vedio_minio_path": [],
+            "image_minio_path": "",
+            "user_screen_name": "ccppartyschool",
+            "query": "中共中央",
+            "a_video_medias": [
+                {
+                    "media_video_url": "",
+                    "type": "video",
+                    "media_photo_url": ""
+                }
+            ],
+            "reply_count": 0,
+            "a_photo_medias": [],
+            "lasttime": 1720793054187,
+            "user_id": "1296437108693848065",
+            "a_urls": [],
+            "tw_client": "",
+            "name": "中共中央党校校长Head of CCP Central Committee Party School",
+            "photo_minio_path": [],
+            "user_mentions": [
+                {
+                    "indices": [
+                        0,
+                        16
+                    ],
+                    "screen_name": "ChinaMacroFacts",
+                    "id_str": "1749453907703767040",
+                    "name": "中国政经事实ChinaFacts"
+                },
+                {
+                    "indices": [
+                        17,
+                        27
+                    ],
+                    "screen_name": "rand__gen",
+                    "id_str": "1167446976633262080",
+                    "name": "rand__gen"
+                }
+            ],
+            "label": "books and literature",
+            "label_id": 1,
+            "description": "",
+            "location": "",
+            "followers_count": "",
+            "friends_count": ""
+        },
+        {
+            "created_at_str": "Sat Jun 29 13:44:31 +0000 2024",
+            "in_reply_to_status_id_str": "1806600500080419011",
+            "tweet_id": "1807047496579117245",
+            "status_type": 3,
+            "created_at": 1719668671000,
+            "source": "",
+            "retweeted_status_id_str": "",
+            "retweet_count": 0,
+            "platform": "推特",
+            "time_save_db": 1719821772733,
+            "user_id_str": "1296437108693848065",
+            "created_ts": 1719668671,
+            "conversation_id": "1806352334777417890",
+            "a_hashtags": [],
+            "favorite_count": 1,
+            "text": "@hankinbeijing @redtheminer @locean0410 你这种半吊子经济学水平还是别在这里扯淡了，目前中国经济根本问题就是信心和需求严重不足发钱是最直接最有效的提振消费的举措，而且还能缩小贫富差距，你除了给包子的政策洗地之外还会干其他的吗？每次看你发言都感觉你比胡锡进更有奴才的觉悟，能把包子的烂尾政策说的那么好听我都怀疑你上辈子是太监",
+            "viewCount": 104,
+            "user_avatar": "https://pbs.twimg.com/profile_images/1665040642639282176/LPINrSNe_normal.jpg",
+            "vedio_minio_path": [],
+            "image_minio_path": "",
+            "user_screen_name": "ccppartyschool",
+            "query": "中共中央",
+            "a_video_medias": [
+                {
+                    "media_video_url": "",
+                    "type": "video",
+                    "media_photo_url": ""
+                }
+            ],
+            "reply_count": 0,
+            "a_photo_medias": [],
+            "lasttime": 1719821781584,
+            "user_id": "1296437108693848065",
+            "a_urls": [],
+            "tw_client": "",
+            "name": "中共中央党校校长Head of CCP Central Committee Party School",
+            "photo_minio_path": [],
+            "user_mentions": [
+                {
+                    "indices": [
+                        0,
+                        14
+                    ],
+                    "screen_name": "hankinbeijing",
+                    "id_str": "1153412646575546368",
+                    "name": "HANK"
+                },
+                {
+                    "indices": [
+                        15,
+                        27
+                    ],
+                    "screen_name": "redtheminer",
+                    "id_str": "2598639067",
+                    "name": "Red Li"
+                },
+                {
+                    "indices": [
+                        28,
+                        39
+                    ],
+                    "screen_name": "locean0410",
+                    "id_str": "890076269580341248",
+                    "name": "洋同学的宏观笔记"
+                }
+            ],
+            "label": "business finance and entrepreneurs",
+            "label_id": 2,
+            "description": "",
+            "location": "",
+            "followers_count": "",
+            "friends_count": ""
+        },
+        {
+            "created_at_str": "Tue Jun 11 13:55:12 +0000 2024",
+            "in_reply_to_status_id_str": "1800341514549330312",
+            "tweet_id": "1800527203903627717",
+            "status_type": 2,
+            "created_at": 1718114112000,
+            "source": "",
+            "retweeted_status_id_str": "",
+            "retweet_count": 0,
+            "platform": "推特",
+            "time_save_db": 1718265861281,
+            "user_id_str": "1296437108693848065",
+            "created_ts": 1718114112,
+            "conversation_id": "1800341514549330312",
+            "a_hashtags": [],
+            "favorite_count": 0,
+            "text": "@isnowzerocovid 而且鸡肋功能越来越多，比如长按手机屏幕就能换屏，这个破功能我现在天天误触",
+            "viewCount": 47,
+            "user_avatar": "https://pbs.twimg.com/profile_images/1665040642639282176/LPINrSNe_normal.jpg",
+            "vedio_minio_path": [],
+            "image_minio_path": "",
+            "user_screen_name": "ccppartyschool",
+            "query": "中共中央",
+            "a_video_medias": [
+                {
+                    "media_video_url": "",
+                    "type": "video",
+                    "media_photo_url": ""
+                }
+            ],
+            "reply_count": 1,
+            "a_photo_medias": [],
+            "lasttime": 1718867537071,
+            "user_id": "1296437108693848065",
+            "a_urls": [],
+            "tw_client": "",
+            "name": "中共中央党校校长Head of CCP Central Committee Party School",
+            "photo_minio_path": [],
+            "user_mentions": [
+                {
+                    "indices": [
+                        0,
+                        15
+                    ],
+                    "screen_name": "isnowzerocovid",
+                    "id_str": "1569261027090472964",
+                    "name": "钟莲花🪷国士无双"
+                }
+            ],
+            "label": "arts and fashion",
+            "label_id": 0,
+            "description": "",
+            "location": "",
+            "followers_count": "",
+            "friends_count": ""
+        },
+        {
+            "created_at_str": "Thu May 30 12:48:07 +0000 2024",
+            "in_reply_to_status_id_str": "1796161052780150951",
+            "tweet_id": "1796161668621189257",
+            "status_type": 3,
+            "created_at": 1717073287000,
+            "source": "",
+            "retweeted_status_id_str": "",
+            "retweet_count": 0,
+            "platform": "推特",
+            "time_save_db": 1717200615451,
+            "user_id_str": "1296437108693848065",
+            "created_ts": 1717073287,
+            "conversation_id": "1796064328228941932",
+            "a_hashtags": [],
+            "favorite_count": 0,
+            "text": "@ChinaMacroFacts @YuanTiecheng 驻澳大利亚大使是正厅级吧？难道最近升级到副部级了？",
+            "viewCount": 176,
+            "user_avatar": "https://pbs.twimg.com/profile_images/1665040642639282176/LPINrSNe_normal.jpg",
+            "vedio_minio_path": [],
+            "image_minio_path": "",
+            "user_screen_name": "ccppartyschool",
+            "query": "中共中央",
+            "a_video_medias": [
+                {
+                    "media_video_url": "",
+                    "type": "video",
+                    "media_photo_url": ""
+                }
+            ],
+            "reply_count": 0,
+            "a_photo_medias": [],
+            "lasttime": 1717200630861,
+            "user_id": "1296437108693848065",
+            "a_urls": [],
+            "tw_client": "",
+            "name": "中共中央党校校长Head of CCP Central Committee Party School",
+            "photo_minio_path": [],
+            "user_mentions": [
+                {
+                    "indices": [
+                        0,
+                        16
+                    ],
+                    "screen_name": "ChinaMacroFacts",
+                    "id_str": "1749453907703767040",
+                    "name": "中国政经事实ChinaFacts"
+                },
+                {
+                    "indices": [
+                        17,
+                        30
+                    ],
+                    "screen_name": "YuanTiecheng",
+                    "id_str": "1504048980581183492",
+                    "name": "东西方"
+                }
+            ],
+            "label": "arts and fashion",
+            "label_id": 0,
+            "description": "",
+            "location": "",
+            "followers_count": "",
+            "friends_count": ""
+        },
+        {
+            "created_at_str": "Fri May 31 14:27:48 +0000 2024",
+            "in_reply_to_status_id_str": "1796545427980112006",
+            "tweet_id": "1796549143529501040",
+            "status_type": 3,
+            "created_at": 1717165668000,
+            "source": "",
+            "retweeted_status_id_str": "",
+            "retweet_count": 0,
+            "platform": "推特",
+            "time_save_db": 1717200610512,
+            "user_id_str": "1296437108693848065",
+            "created_ts": 1717165668,
+            "conversation_id": "1796397998173519936",
+            "a_hashtags": [],
+            "favorite_count": 0,
+            "text": "@isnowzerocovid @mengyan1234567 我说怎么看着那么眼熟呢，想起来这女的好像是boxhill所在的东区代表liberal party的",
+            "viewCount": 25,
+            "user_avatar": "https://pbs.twimg.com/profile_images/1665040642639282176/LPINrSNe_normal.jpg",
+            "vedio_minio_path": [],
+            "image_minio_path": "",
+            "user_screen_name": "ccppartyschool",
+            "query": "中共中央",
+            "a_video_medias": [
+                {
+                    "media_video_url": "",
+                    "type": "video",
+                    "media_photo_url": ""
+                }
+            ],
+            "reply_count": 1,
+            "a_photo_medias": [],
+            "lasttime": 1717200630842,
+            "user_id": "1296437108693848065",
+            "a_urls": [],
+            "tw_client": "",
+            "name": "中共中央党校校长Head of CCP Central Committee Party School",
+            "photo_minio_path": [],
+            "user_mentions": [
+                {
+                    "indices": [
+                        0,
+                        15
+                    ],
+                    "screen_name": "isnowzerocovid",
+                    "id_str": "1569261027090472964",
+                    "name": "钟莲花🪷国士无双"
+                },
+                {
+                    "indices": [
+                        16,
+                        31
+                    ],
+                    "screen_name": "mengyan1234567",
+                    "id_str": "1351790211928231937",
+                    "name": "我是梦嫣❤️"
+                }
+            ],
+            "label": "arts and fashion",
+            "label_id": 0,
+            "description": "",
+            "location": "",
+            "followers_count": "",
+            "friends_count": ""
+        },
+        {
+            "created_at_str": "Thu May 23 13:38:27 +0000 2024",
+            "in_reply_to_status_id_str": "1793503854312702199",
+            "tweet_id": "1793637618196025362",
+            "status_type": 3,
+            "created_at": 1716471507000,
+            "source": "",
+            "retweeted_status_id_str": "",
+            "retweet_count": 0,
+            "platform": "推特",
+            "time_save_db": 1716639422663,
+            "user_id_str": "1296437108693848065",
+            "created_ts": 1716471507,
+            "conversation_id": "1793503854312702199",
+            "a_hashtags": [],
+            "favorite_count": 1,
+            "text": "@pingzhang632 日版的iPhone拍照不能取消声音是不是也和这个有关",
+            "viewCount": 332,
+            "user_avatar": "https://pbs.twimg.com/profile_images/1665040642639282176/LPINrSNe_normal.jpg",
+            "vedio_minio_path": [],
+            "image_minio_path": "",
+            "user_screen_name": "ccppartyschool",
+            "query": "中共中央",
+            "a_video_medias": [
+                {
+                    "media_video_url": "",
+                    "type": "video",
+                    "media_photo_url": ""
+                }
+            ],
+            "reply_count": 0,
+            "a_photo_medias": [],
+            "lasttime": 1716639422796,
+            "user_id": "1296437108693848065",
+            "a_urls": [],
+            "tw_client": "",
+            "name": "中共中央党校校长Head of CCP Central Committee Party School",
+            "photo_minio_path": [],
+            "user_mentions": [
+                {
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "screen_name": "pingzhang632",
+                    "id_str": "20700332",
+                    "name": "张平"
+                }
+            ],
+            "label": "arts and fashion",
+            "label_id": 0,
+            "description": "",
+            "location": "",
+            "followers_count": "",
+            "friends_count": ""
+        },
+        {
+            "created_at_str": "Thu May 23 15:58:18 +0000 2024",
+            "in_reply_to_status_id_str": "1793475199104680430",
+            "tweet_id": "1793672813108490376",
+            "status_type": 3,
+            "created_at": 1716479898000,
+            "source": "",
+            "retweeted_status_id_str": "",
+            "retweet_count": 0,
+            "platform": "推特",
+            "time_save_db": 1716639422655,
+            "user_id_str": "1296437108693848065",
+            "created_ts": 1716479898,
+            "conversation_id": "1793475199104680430",
+            "a_hashtags": [],
+            "favorite_count": 0,
+            "text": "@caolei1 新加坡封锁马六甲就是彻底和中国撕破脸，台海东海南海就更不可能了，中国现在和印尼走得很近，对ASEAN的影响力也日渐超越美国，巽他海峡也不太可能，感觉这条新闻过于扯淡",
+            "viewCount": 284,
+            "user_avatar": "https://pbs.twimg.com/profile_images/1665040642639282176/LPINrSNe_normal.jpg",
+            "vedio_minio_path": [],
+            "image_minio_path": "",
+            "user_screen_name": "ccppartyschool",
+            "query": "中共中央",
+            "a_video_medias": [
+                {
+                    "media_video_url": "",
+                    "type": "video",
+                    "media_photo_url": ""
+                }
+            ],
+            "reply_count": 2,
+            "a_photo_medias": [],
+            "lasttime": 1716639422793,
+            "user_id": "1296437108693848065",
+            "a_urls": [],
+            "tw_client": "",
+            "name": "中共中央党校校长Head of CCP Central Committee Party School",
+            "photo_minio_path": [],
+            "user_mentions": [
+                {
+                    "indices": [
+                        0,
+                        8
+                    ],
+                    "screen_name": "caolei1",
+                    "id_str": "297811887",
+                    "name": "曹山石"
+                }
+            ],
+            "label": "arts and fashion",
+            "label_id": 0,
+            "description": "this is a committee",
+            "location": "China",
+            "followers_count": "222",
+            "friends_count": "222"
+        }
+    ],
+    "931506357907333120": [
+        {
+            "created_at_str": "Tue Feb 13 13:27:48 +0000 2024",
+            "in_reply_to_status_id_str": "1757395034356556141",
+            "tweet_id": "1757396155577815293",
+            "status_type": 1,
+            "created_at": 1707830868000,
+            "source": "",
+            "retweeted_status_id_str": "",
+            "retweet_count": 0,
+            "platform": "推特",
+            "time_save_db": 1709220340145,
+            "user_id_str": "931506357907333120",
+            "created_ts": 1707830868,
+            "conversation_id": "1757252467543445683",
+            "a_hashtags": [],
+            "favorite_count": 0,
+            "text": "Honestly though i'm sick of this fandom issue discussion on social media mostly it because of too much political burden of it thanks to people echo chambering it with politics. You know people can't take some logic when there's politics in it.\n\nI'm not sorry for this opinion",
+            "user_avatar": "https://pbs.twimg.com/profile_images/971575014188175360/oeP_HjdU_normal.jpg",
+            "vedio_minio_path": [],
+            "image_minio_path": "",
+            "user_screen_name": "GBANove68",
+            "query": "Political Opinion",
+            "a_video_medias": [],
+            "reply_count": 0,
+            "a_photo_medias": [],
+            "lasttime": 1709220359291,
+            "user_id": "931506357907333120",
+            "a_urls": [],
+            "tw_client": "",
+            "name": "Garibaldi Britann Abdillah",
+            "photo_minio_path": [],
+            "label": "law government and politics",
+            "label_id": 10,
+            "description": "",
+            "location": "",
+            "followers_count": "",
+            "friends_count": ""
+        },
+        {
+            "created_at_str": "Wed Feb 14 10:15:30 +0000 2024",
+            "in_reply_to_status_id_str": "1757395034356556141",
+            "tweet_id": "1757396155577815293",
+            "status_type": 3,
+            "created_at": 1707830868000,
+            "source": "",
+            "retweeted_status_id_str": "",
+            "retweet_count": 0,
+            "platform": "推特",
+            "time_save_db": 1709220340145,
+            "user_id_str": "931506357907333120",
+            "created_ts": 1707916530,
+            "conversation_id": "1757252467543445683",
+            "a_hashtags": [],
+            "favorite_count": 0,
+            "text": "Honestly though i'm sick of this fandom issue discussion on social media mostly it because of too much political burden of it thanks to people echo chambering it with politics. You know people can't take some logic when there's politics in it.\n\nI'm not sorry for this opinion",
+            "user_avatar": "https://pbs.twimg.com/profile_images/971575014188175360/oeP_HjdU_normal.jpg",
+            "vedio_minio_path": [],
+            "image_minio_path": "",
+            "user_screen_name": "GBANove68",
+            "query": "Political Opinion",
+            "a_video_medias": [],
+            "reply_count": 0,
+            "a_photo_medias": [],
+            "lasttime": 1709220359291,
+            "user_id": "931506357907333120",
+            "a_urls": [],
+            "tw_client": "",
+            "name": "Garibaldi Britann Abdillah",
+            "photo_minio_path": [],
+            "label": "law government and politics",
+            "label_id": 10,
+            "description": "",
+            "location": "",
+            "followers_count": "",
+            "friends_count": ""
+        }
+    ],
+    "1222894323152195586": [
+        {
+            "created_at_str": "Tue Jun 04 17:18:31 +0000 2024",
+            "in_reply_to_status_id_str": "",
+            "tweet_id": "1798041656044003542",
+            "status_type": 1,
+            "in_reply_to_user_id_str": "",
+            "created_at": 1717521511000,
+            "retweeted_status_id_str": "",
+            "retweet_count": 0,
+            "platform": "推特",
+            "retweeted": false,
+            "created_year": 2024,
+            "is_quote_status": false,
+            "user_id_str": "1222894323152195586",
+            "created_ts": 1717521511,
+            "screen_name": "CGMeifangZhang",
+            "favorite_count": 0,
+            "text": "Artworks from 2,868 graduates of the China Academy of Art (CAA) this year have transformed Hangzhou in East China's Zhejiang Province into a vibrant sea of art. From paintings to urban designs, AIGC videos, and installations, eight exhibition areas across the city showcase the… https://t.co/p3ELEQ4tQL",
+            "viewCount": 0,
+            "id": "1798041656044003542",
+            "quoted_status_permalink": {},
+            "lang": "en",
+            "conversation_id_str": "1798041656044003542",
+            "favorited": false,
+            "vedio_minio_path": [],
+            "user_screen_name": "CGMeifangZhang",
+            "query": "AI",
+            "a_video_medias": [
+                {
+                    "media_video_url": "",
+                    "type": "video",
+                    "media_photo_url": ""
+                }
+            ],
+            "reply_count": 0,
+            "a_photo_medias": [
+                {
+                    "type": "photo",
+                    "media_photo_url": "https://pbs.twimg.com/media/GPPtWsFaAAEBP7u.jpg"
+                }
+            ],
+            "lasttime": 1717826905309,
+            "user_id": "1222894323152195586",
+            "tw_client": "",
+            "name": "Zhang Meifang",
+            "photo_minio_path": [
+                "202406/5/126/938d6d650fc5718d34ebeecfcf5ee123.jpg"
+            ],
+            "quoted_status_id_str": "",
+            "created_hour": 1,
+            "label": "arts and fashion",
+            "label_id": 0,
+            "description": "Consul General of China in Belfast  CGMeifangZhang on TikTok @cgmeifangzhang\n\nTweets are only personal views. Rts are not necessarily endorsements.",
+            "location": "75-77 Malone Road, Belfast",
+            "followers_count": 157661,
+            "friends_count": 1544
+        },
+        {
+            "created_at_str": "Thu Mar 28 11:34:12 +0000 2024",
+            "in_reply_to_status_id_str": "",
+            "tweet_id": "1773312629731192864",
+            "status_type": 1,
+            "created_at": 1711625652000,
+            "source": "",
+            "retweeted_status_id_str": "",
+            "retweet_count": 2,
+            "platform": "推特",
+            "time_save_db": 1711683171791,
+            "user_id_str": "1222894323152195586",
+            "created_ts": 1711625652,
+            "conversation_id": "1773312629731192864",
+            "a_hashtags": [
+                "Shanghai",
+                "CityofDreams"
+            ],
+            "favorite_count": 2,
+            "text": "Join us in the latest promo video, featuring the vibrant Shanghai debuts in Germany as it opens the \"Shanghai Film Week\" in Duisburg, the world’s largest inland port. #Shanghai #CityofDreams https://t.co/8GHmBlwjsy",
+            "user_avatar": "https://pbs.twimg.com/profile_images/1659618123572559872/jN34l9kF_normal.jpg",
+            "vedio_minio_path": [
+                "202403/29/12/b660733f48d0599009f59844a64b10ab.mp4"
+            ],
+            "image_minio_path": "",
+            "user_screen_name": "CGMeifangZhang",
+            "query": "#shanghai",
+            "a_video_medias": [
+                {
+                    "media_video_url": "https://video.twimg.com/ext_tw_video/1773312550035148800/pu/vid/avc1/480x270/CGs7-7xdzxNCMYK-.mp4?tag=12",
+                    "type": "video",
+                    "media_photo_url": "https://pbs.twimg.com/ext_tw_video_thumb/1773312550035148800/pu/img/WxiAmhLiteNHDhkP.jpg"
+                }
+            ],
+            "reply_count": 0,
+            "a_photo_medias": [],
+            "lasttime": 1712569808785,
+            "user_id": "1222894323152195586",
+            "a_urls": [],
+            "tw_client": "",
+            "name": "Zhang Meifang",
+            "photo_minio_path": [],
+            "label": "film tv and video",
+            "label_id": 6,
+            "description": "Consul General of China in Belfast  CGMeifangZhang on TikTok @cgmeifangzhang\n\nTweets are only personal views. Rts are not necessarily endorsements.",
+            "location": "75-77 Malone Road, Belfast",
+            "followers_count": 157661,
+            "friends_count": 1544
+        },
+        {
+            "created_at_str": "Fri Jun 21 08:11:38 +0000 2024",
+            "in_reply_to_status_id_str": "",
+            "tweet_id": "1804064620702769396",
+            "status_type": 1,
+            "created_at": 1718957498000,
+            "source": "",
+            "retweeted_status_id_str": "",
+            "retweet_count": 0,
+            "platform": "推特",
+            "time_save_db": 1718987563053,
+            "user_id_str": "1222894323152195586",
+            "created_ts": 1718957498,
+            "conversation_id": "1804064620702769396",
+            "a_hashtags": [
+                "US",
+                "China",
+                "Shanghai"
+            ],
+            "favorite_count": 3,
+            "text": "Click the video and check out how a delegation of college student leaders from #US universities, organized by the #China-US Exchange Foundation, reacted to #Shanghai's fast development while visiting some of the city's leading companies.\nhttps://t.co/qrMGcyYfzT",
+            "viewCount": 408,
+            "user_avatar": "https://pbs.twimg.com/profile_images/1659618123572559872/jN34l9kF_normal.jpg",
+            "vedio_minio_path": [
+                "202406/21/62/24aee8b4020f1b053e6f74c1f4445534.mp4"
+            ],
+            "image_minio_path": "",
+            "user_screen_name": "CGMeifangZhang",
+            "query": "#shanghai",
+            "a_video_medias": [
+                {
+                    "media_video_url": "https://video.twimg.com/amplify_video/1804040520408403969/vid/avc1/320x568/tl8TXrgQF-rxjGVy.mp4?tag=16",
+                    "type": "video",
+                    "media_photo_url": "https://pbs.twimg.com/amplify_video_thumb/1804040520408403969/img/scU8jay7gJxOtAuq.jpg"
+                }
+            ],
+            "reply_count": 0,
+            "a_photo_medias": [],
+            "lasttime": 1718987568044,
+            "user_id": "1222894323152195586",
+            "a_urls": [],
+            "tw_client": "",
+            "name": "Zhang Meifang",
+            "photo_minio_path": [],
+            "label": "film tv and video",
+            "label_id": 6,
+            "description": "Consul General of China in Belfast  CGMeifangZhang on TikTok @cgmeifangzhang\n\nTweets are only personal views. Rts are not necessarily endorsements.",
+            "location": "75-77 Malone Road, Belfast",
+            "followers_count": 157661,
+            "friends_count": 1544
+        },
+        {
+            "created_at_str": "Sat Mar 23 13:52:13 +0000 2024",
+            "in_reply_to_status_id_str": "",
+            "tweet_id": "1771535424516751413",
+            "status_type": 1,
+            "created_at": 1711201933000,
+            "source": "",
+            "retweeted_status_id_str": "",
+            "retweet_count": 28,
+            "platform": "推特",
+            "time_save_db": 1712692853839,
+            "user_id_str": "1222894323152195586",
+            "created_ts": 1711201933,
+            "conversation_id": "1771535424516751413",
+            "a_hashtags": [
+                "Exclusive",
+                "China",
+                "Philippines",
+                "Ren"
+            ],
+            "favorite_count": 118,
+            "text": "#Exclusive: Video footage obtained by GT showed a #China Coast Guard(CCG) ship fully intercepting the Unaizah May 4 from the #Philippines side when it illegally intruded into waters adjacent to China's #Ren'ai Jiao on Saturday despite warnings from the Chinese side. China has… https://t.co/dEshsowprJ",
+            "viewCount": "7303",
+            "user_avatar": "https://pbs.twimg.com/profile_images/1659618123572559872/jN34l9kF_normal.jpg",
+            "vedio_minio_path": [
+                "202403/23/19/1a915138838ad499d0891b22583a7785.mp4"
+            ],
+            "image_minio_path": "",
+            "user_screen_name": "CGMeifangZhang",
+            "query": "Ren'ai Jiao",
+            "a_video_medias": [
+                {
+                    "media_video_url": "https://video.twimg.com/ext_tw_video/1771535373832777728/pu/vid/avc1/480x270/h36JYMIK2Kt1eq9I.mp4?tag=12",
+                    "type": "video",
+                    "media_photo_url": "https://pbs.twimg.com/ext_tw_video_thumb/1771535373832777728/pu/img/sbNSPi-eLJfbpMMH.jpg"
+                }
+            ],
+            "reply_count": 19,
+            "a_photo_medias": [],
+            "lasttime": 1712692880440,
+            "user_id": "1222894323152195586",
+            "a_urls": [],
+            "tw_client": "",
+            "name": "Zhang Meifang",
+            "photo_minio_path": [],
+            "label": "film tv and video",
+            "label_id": 6,
+            "description": "Consul General of China in Belfast  CGMeifangZhang on TikTok @cgmeifangzhang\n\nTweets are only personal views. Rts are not necessarily endorsements.",
+            "location": "75-77 Malone Road, Belfast",
+            "followers_count": 157661,
+            "friends_count": 1544
+        },
+        {
+            "created_at_str": "Mon Mar 20 12:41:36 +0000 2023",
+            "in_reply_to_status_id_str": "",
+            "tweet_id": "1637796531343327233",
+            "status_type": 1,
+            "created_at": 1679316096000,
+            "source": "",
+            "retweeted_status_id_str": "",
+            "retweet_count": 26,
+            "platform": "推特",
+            "time_save_db": 1709525731123,
+            "user_id_str": "1222894323152195586",
+            "created_ts": 1679316096,
+            "conversation_id": "1637796531343327233",
+            "a_hashtags": [
+                "Japan",
+                "nuclear"
+            ],
+            "favorite_count": 72,
+            "text": "#Japan's decision to dump #nuclear-contaminated wastewater into the ocean sparks concerns over food safety, which industry insiders say will have long-lasting effects on the fishing industries of Japan's neighbors and Pacific countries. https://t.co/iFzH5XfwPw",
+            "user_avatar": "https://pbs.twimg.com/profile_images/1659618123572559872/jN34l9kF_normal.jpg",
+            "vedio_minio_path": [],
+            "image_minio_path": "",
+            "user_screen_name": "CGMeifangZhang",
+            "query": "Nuclear Wastewater Safety",
+            "a_video_medias": [],
+            "reply_count": 7,
+            "a_photo_medias": [],
+            "lasttime": 1709525739736,
+            "user_id": "1222894323152195586",
+            "a_urls": [],
+            "tw_client": "",
+            "name": "Zhang Meifang",
+            "photo_minio_path": [],
+            "label": "food and dining",
+            "label_id": 8,
+            "description": "Consul General of China in Belfast  CGMeifangZhang on TikTok @cgmeifangzhang\n\nTweets are only personal views. Rts are not necessarily endorsements.",
+            "location": "75-77 Malone Road, Belfast",
+            "followers_count": 157661,
+            "friends_count": 1544
+        },
+        {
+            "created_at_str": "Sun Dec 10 10:30:12 +0000 2023",
+            "in_reply_to_status_id_str": "",
+            "tweet_id": "1733796248610566392",
+            "status_type": 1,
+            "created_at": 1702204212000,
+            "source": "",
+            "retweeted_status_id_str": "",
+            "retweet_count": 6,
+            "platform": "推特",
+            "time_save_db": 1711437222206,
+            "user_id_str": "1222894323152195586",
+            "created_ts": 1702204212,
+            "conversation_id": "1733796248610566392",
+            "a_hashtags": [
+                "Philippines"
+            ],
+            "favorite_count": 12,
+            "text": "China Coast Guard in accordance with the law and regulations conducted control measures on Sunday over four Philippine vessels that attempted to deliver construction materials to the #Philippines' illegally grounded warship at Ren'ai Jiao in China's Nansha Qundao, which violated… https://t.co/4EgY7E26DN",
+            "user_avatar": "https://pbs.twimg.com/profile_images/1659618123572559872/jN34l9kF_normal.jpg",
+            "vedio_minio_path": [],
+            "image_minio_path": "",
+            "user_screen_name": "CGMeifangZhang",
+            "query": "Ren'ai Jiao",
+            "a_video_medias": [
+                {
+                    "media_video_url": "",
+                    "type": "video",
+                    "media_photo_url": ""
+                }
+            ],
+            "reply_count": 2,
+            "a_photo_medias": [],
+            "lasttime": 1711442850773,
+            "user_id": "1222894323152195586",
+            "a_urls": [],
+            "tw_client": "",
+            "name": "Zhang Meifang",
+            "photo_minio_path": [],
+            "label": "law government and politics",
+            "label_id": 10,
+            "description": "Consul General of China in Belfast  CGMeifangZhang on TikTok @cgmeifangzhang\n\nTweets are only personal views. Rts are not necessarily endorsements.",
+            "location": "75-77 Malone Road, Belfast",
+            "followers_count": 157661,
+            "friends_count": 1544
+        },
+        {
+            "created_at_str": "Wed May 29 10:59:05 +0000 2024",
+            "in_reply_to_status_id_str": "",
+            "tweet_id": "1795771842839679237",
+            "status_type": 1,
+            "created_at": 1716980345000,
+            "source": "",
+            "retweeted_status_id_str": "",
+            "retweet_count": 2,
+            "platform": "推特",
+            "time_save_db": 1717079249780,
+            "user_id_str": "1222894323152195586",
+            "created_ts": 1716980345,
+            "conversation_id": "1795771842839679237",
+            "a_hashtags": [
+                "Shanghai"
+            ],
+            "favorite_count": 6,
+            "text": "China's first domestically developed and the world's largest electric container vessel received two design and building contracts, #Shanghai's Pudong New Area regional government said. https://t.co/0mkvagKGvV",
+            "viewCount": 610,
+            "user_avatar": "https://pbs.twimg.com/profile_images/1659618123572559872/jN34l9kF_normal.jpg",
+            "vedio_minio_path": [],
+            "image_minio_path": "",
+            "user_screen_name": "CGMeifangZhang",
+            "query": "#shanghai",
+            "a_video_medias": [
+                {
+                    "media_video_url": "",
+                    "type": "video",
+                    "media_photo_url": ""
+                }
+            ],
+            "reply_count": 1,
+            "a_photo_medias": [
+                {
+                    "type": "photo",
+                    "media_photo_url": "https://pbs.twimg.com/media/GOvc9tnXkAAhKhl.jpg"
+                }
+            ],
+            "lasttime": 1717079258022,
+            "user_id": "1222894323152195586",
+            "a_urls": [],
+            "tw_client": "",
+            "name": "Zhang Meifang",
+            "photo_minio_path": [
+                "202405/29/28/a8e753b7bac3682b216393e8a164eda2.jpg"
+            ],
+            "label": "law government and politics",
+            "label_id": 10,
+            "description": "Consul General of China in Belfast  CGMeifangZhang on TikTok @cgmeifangzhang\n\nTweets are only personal views. Rts are not necessarily endorsements.",
+            "location": "75-77 Malone Road, Belfast",
+            "followers_count": 157661,
+            "friends_count": 1544
+        }],
+    "1560341081576939524": [
+        {
+            "created_at_str": "Sat May 18 16:23:27 +0000 2024",
+            "in_reply_to_status_id_str": "",
+            "tweet_id": "1792383983763829061",
+            "status_type": 1,
+            "created_at": 1716049407000,
+            "source": "",
+            "retweeted_status_id_str": "",
+            "retweet_count": 642,
+            "platform": "推特",
+            "time_save_db": 1716174706195,
+            "user_id_str": "1560341081576939524",
+            "created_ts": 1716049407,
+            "conversation_id": "1791867202787807476",
+            "a_hashtags": [],
+            "favorite_count": 721,
+            "text": "The “border is secure” supercut. \n\nThis should be in the campaign video of every single Republican running for office. \n\nHow can anyone believe a word these liars say? https://t.co/CMnLqg27qo",
+            "viewCount": 11498,
+            "user_avatar": "https://pbs.twimg.com/profile_images/1755794667000459264/1IgswvqC_normal.jpg",
+            "vedio_minio_path": [
+                "202405/19/30/15cf5a5efdd24080884a7bcc90329f55.mp4"
+            ],
+            "image_minio_path": "",
+            "user_screen_name": "DefiyantlyFree",
+            "query": "trump border",
+            "a_video_medias": [
+                {
+                    "media_video_url": "https://video.twimg.com/amplify_video/1791867139017633792/vid/avc1/480x270/BNEzsp5x-i5WQoQv.mp4?tag=14",
+                    "type": "video",
+                    "media_photo_url": "https://pbs.twimg.com/amplify_video_thumb/1791867139017633792/img/W2BzsZoTpQ6d35WK.jpg"
+                }
+            ],
+            "reply_count": 30,
+            "a_photo_medias": [],
+            "lasttime": 1716174710256,
+            "user_id": "1560341081576939524",
+            "a_urls": [],
+            "tw_client": "",
+            "name": "Insurrection Barbie",
+            "photo_minio_path": [],
+            "label": "film tv and video",
+            "label_id": 6,
+            "description": "It’s always darkest just before the dawn. MARRIED.. No Dms.",
+            "location": "",
+            "followers_count": 128605,
+            "friends_count": 1353
+        },
+        {
+            "created_at_str": "Sun Apr 21 02:57:46 +0000 2024",
+            "in_reply_to_status_id_str": "",
+            "tweet_id": "1781879973579575523",
+            "status_type": 1,
+            "created_at": 1713668266000,
+            "source": "",
+            "retweeted_status_id_str": "",
+            "retweet_count": 13,
+            "platform": "推特",
+            "time_save_db": 1713673059233,
+            "user_id_str": "1560341081576939524",
+            "created_ts": 1713668266,
+            "conversation_id": "1781879973579575523",
+            "a_hashtags": [],
+            "favorite_count": 39,
+            "text": "Very long clip sorry but it’s so spot on. \n\nAmerica first.\n\nLower the temperature. \n\nStop defending Iran and China. \n\nWe should be able to ask legitimate questions of any government without being attacked. https://t.co/siEFjvvsLd",
+            "viewCount": "3103",
+            "user_avatar": "https://pbs.twimg.com/profile_images/1755794667000459264/1IgswvqC_normal.jpg",
+            "vedio_minio_path": [
+                "202404/21/17/b79b2fb1b2080483240078e81a3f0ef9.mp4"
+            ],
+            "image_minio_path": "",
+            "user_screen_name": "DefiyantlyFree",
+            "query": "iran",
+            "a_video_medias": [
+                {
+                    "media_video_url": "https://video.twimg.com/amplify_video/1781879622516322304/vid/avc1/320x568/aJGWTM_SBiWvk87n.mp4?tag=14",
+                    "type": "video",
+                    "media_photo_url": "https://pbs.twimg.com/amplify_video_thumb/1781879622516322304/img/0VSfdg7Q2kXzb4oI.jpg"
+                }
+            ],
+            "reply_count": 5,
+            "a_photo_medias": [],
+            "lasttime": 1713673063170,
+            "user_id": "1560341081576939524",
+            "a_urls": [],
+            "tw_client": "",
+            "name": "Insurrection Barbie",
+            "photo_minio_path": [],
+            "label": "law government and politics",
+            "label_id": 10,
+            "description": "It’s always darkest just before the dawn. MARRIED.. No Dms.",
+            "location": "",
+            "followers_count": 128605,
+            "friends_count": 1353
+        },
+        {
+            "created_at_str": "Sat Feb 17 02:10:11 +0000 2024",
+            "in_reply_to_status_id_str": "",
+            "tweet_id": "1758677506251456872",
+            "status_type": 1,
+            "created_at": 1708135811000,
+            "source": "",
+            "retweeted_status_id_str": "",
+            "retweet_count": 275,
+            "platform": "推特",
+            "time_save_db": 1709382862798,
+            "user_id_str": "1560341081576939524",
+            "created_ts": 1708135811,
+            "conversation_id": "1758675175698989517",
+            "a_hashtags": [],
+            "favorite_count": 606,
+            "text": "Once upon a time, a businessman came down an escalator at Trump tower and forever changed the course of politics in America. A businessman who was loved by all until he ran and exposed how corrupt our political class was. He exposed the corruption in both parties, he exposed the…",
+            "user_avatar": "https://pbs.twimg.com/profile_images/1755794667000459264/1IgswvqC_normal.jpg",
+            "vedio_minio_path": [],
+            "image_minio_path": "",
+            "user_screen_name": "DefiyantlyFree",
+            "query": "Voting Process",
+            "a_video_medias": [],
+            "reply_count": 65,
+            "a_photo_medias": [],
+            "lasttime": 1709382862835,
+            "user_id": "1560341081576939524",
+            "a_urls": [],
+            "tw_client": "",
+            "name": "Insurrection Barbie",
+            "photo_minio_path": [],
+            "label": "law government and politics",
+            "label_id": 10,
+            "description": "It’s always darkest just before the dawn. MARRIED.. No Dms.",
+            "location": "",
+            "followers_count": 128605,
+            "friends_count": 1353
+        },
+        {
+            "created_at_str": "Sun Apr 28 00:20:10 +0000 2024",
+            "in_reply_to_status_id_str": "",
+            "tweet_id": "1784377028059242979",
+            "status_type": 1,
+            "created_at": 1714263610000,
+            "source": "",
+            "retweeted_status_id_str": "",
+            "retweet_count": 382,
+            "platform": "推特",
+            "time_save_db": 1714285954231,
+            "user_id_str": "1560341081576939524",
+            "created_ts": 1714263610,
+            "conversation_id": "1784377028059242979",
+            "a_hashtags": [],
+            "favorite_count": 887,
+            "text": "Donald Trump took a wrecking ball to the globalist agenda in his first term. \n\nHe took us out of:\n\n- UN Education Agency\n-WHO\n-Paris climate accords \n- UN relief \n- Trans Pacific Partnership \n-UNESCO \n-UN Human Rights Council \n-left the Iran Nuclear Deal\n\nNo wonder these people…",
+            "viewCount": "12695",
+            "user_avatar": "https://pbs.twimg.com/profile_images/1755794667000459264/1IgswvqC_normal.jpg",
+            "vedio_minio_path": [],
+            "image_minio_path": "",
+            "user_screen_name": "DefiyantlyFree",
+            "query": "nuclear",
+            "a_video_medias": [
+                {
+                    "media_video_url": "",
+                    "type": "video",
+                    "media_photo_url": ""
+                }
+            ],
+            "reply_count": 37,
+            "a_photo_medias": [],
+            "lasttime": 1714285962997,
+            "user_id": "1560341081576939524",
+            "a_urls": [],
+            "tw_client": "",
+            "name": "Insurrection Barbie",
+            "photo_minio_path": [],
+            "label": "learning and educational",
+            "label_id": 11,
+            "description": "It’s always darkest just before the dawn. MARRIED.. No Dms.",
+            "location": "",
+            "followers_count": 128605,
+            "friends_count": 1353
+        },
+        {
+            "created_at_str": "Mon Mar 18 21:58:28 +0000 2024",
+            "in_reply_to_status_id_str": "",
+            "tweet_id": "1769845855840866541",
+            "status_type": 1,
+            "created_at": 1710799108000,
+            "source": "",
+            "retweeted_status_id_str": "",
+            "retweet_count": 35,
+            "platform": "推特",
+            "time_save_db": 1711136221422,
+            "user_id_str": "1560341081576939524",
+            "created_ts": 1710799108,
+            "conversation_id": "1769845855840866541",
+            "a_hashtags": [],
+            "favorite_count": 87,
+            "text": "Trump will never cut Social Security and Medicare entitlements and the leftist lunatics were pushing that conspiracy theory are the same leftist lunatics that told you Biden would never open the border or cancel the Keystone pipeline or stop drilling. \n\nThey have never gotten…",
+            "user_avatar": "https://pbs.twimg.com/profile_images/1755794667000459264/1IgswvqC_normal.jpg",
+            "vedio_minio_path": [],
+            "image_minio_path": "",
+            "user_screen_name": "DefiyantlyFree",
+            "query": "trump border",
+            "a_video_medias": [
+                {
+                    "media_video_url": "",
+                    "type": "video",
+                    "media_photo_url": ""
+                }
+            ],
+            "reply_count": 10,
+            "a_photo_medias": [],
+            "lasttime": 1711136315400,
+            "user_id": "1560341081576939524",
+            "a_urls": [],
+            "tw_client": "",
+            "name": "Insurrection Barbie",
+            "photo_minio_path": [],
+            "label": "news and social concern",
+            "label_id": 13,
+            "description": "It’s always darkest just before the dawn. MARRIED.. No Dms.",
+            "location": "",
+            "followers_count": 128605,
+            "friends_count": 1353
+        }
+    ]
+}
