@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f26e8bce.css",
+    "main.js": "./static/js/main.942eea16.js",
+    "static/media/PingFang-SC-Regular.eot": "./static/media/PingFang-SC-Regular.93e2e1c8764055026514.eot",
+    "static/media/PingFang-SC-Regular.ttf": "./static/media/PingFang-SC-Regular.5f1c0423af17b68908fc.ttf",
+    "static/media/space_filling_curve4.svg": "./static/media/space_filling_curve4.484587cf9c75267aa74fa5eb950cfd57.svg",
+    "static/media/PingFang-SC-Bold.eot": "./static/media/PingFang-SC-Bold.b23ecd51529d82d99c1a.eot",
+    "static/media/PingFang-SC-Bold.ttf": "./static/media/PingFang-SC-Bold.3afe6ba3b670416daff4.ttf",
+    "index.html": "./index.html",
+    "main.f26e8bce.css.map": "./static/css/main.f26e8bce.css.map",
+    "main.942eea16.js.map": "./static/js/main.942eea16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f26e8bce.css",
+    "static/js/main.942eea16.js"
+  ]
+}
