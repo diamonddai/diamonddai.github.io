@@ -1,0 +1,20 @@
+.category-bar-chart {
+    display: flex;
+    width: 100%;
+    height: 20px; /* Adjust the height as needed */
+    border-radius: 0 0 4px 4px;
+    overflow: hidden;
+    position: relative; /* Ensures tooltips aren't cut off */
+  }
+  
+  .category-bar-segment {
+    height: 100%;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    position: relative; /* Needed for accurate tooltip positioning */
+  }
+  
+  .category-bar-segment:hover {
+    opacity: 0.8;
+  }
+  

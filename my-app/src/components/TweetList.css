@@ -1,0 +1,43 @@
+.tweet-list-container, .tweet-list-container * {
+    font-family: Arial, sans-serif;
+}
+
+.tweet-list-container {
+    margin-top: 15px;
+    border-radius: 0px;
+    overflow-y: hidden; /* 防止内层容器的滚动条被裁剪 */
+    background: white;
+    padding-left: 10px;
+    padding-right: 10px; /* 设置右侧内边距，创建空隙 */
+    height: 350px;
+    padding-top: 0px;
+}
+
+.tweet-list-inner-container {
+    overflow-y: auto; /* 内层容器滚动 */
+    overflow-x: hidden;
+    margin-right: -5px; /* 负右边距，确保滚动条出现在空隙内 */
+    padding-right: 5px; /* 确保内容不被滚动条遮挡 */
+    padding-top: 0px;
+    height: 100%;
+}
+
+/* 针对 WebKit 内核浏览器 (如 Chrome, Safari 等) */
+.tweet-list-inner-container::-webkit-scrollbar {
+    width: 4px; /* 调整滚动条的宽度 */
+}
+
+.tweet-list-inner-container::-webkit-scrollbar-track {
+    border-radius: 10px; /* 去掉边框 */
+    margin-top: 10px;
+}
+
+.tweet-list-inner-container::-webkit-scrollbar-thumb {
+    background-color: #F3F3F3; /* 滚动条滑块的颜色，调淡一些 */
+    border-radius: 10px; /* 去掉边框 */
+    border: none; /* 确保没有边框 */
+}
+
+.tweet-list-inner-container::-webkit-scrollbar-thumb:hover {
+    background-color: #c0c0c0; /* 滑块在 hover 时的颜色 */
+}

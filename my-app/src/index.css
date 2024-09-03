@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: 'PingFang SC',sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@font-face {
+  font-family: 'PingFang SC';
+  src: url('./fonts/PingFang-SC-Regular/PingFang-SC-Regular.ttf') format('truetype');
+  font-display: swap;
+}
+body {
+  font-family: 'PingFang SC', sans-serif;
+}

@@ -1,0 +1,110 @@
+@font-face {
+  font-family: 'PingFang SC';
+  src: url('../../fonts/PingFang-SC-Regular/PingFang-SC-Regular.ttf') format('truetype');
+  font-display: swap;
+}
+
+body {
+  font-family: 'PingFang SC', sans-serif;
+}
+
+.custom-select .ant-select-selector {
+  font-size: 12px !important; /* 确保覆盖默认样式 */
+  height: 19px !important;
+  line-height: 19px !important;
+}
+
+.custom-input .ant-input {
+  font-size: 12px !important; /* 调整字体大小 */
+  height: 19px !important; 
+  line-height: 19px !important;
+}
+
+
+
+.hyperparameter
+{
+color:#000000;
+text-align:left;
+vertical-align:text-top;
+font-size:14px;
+font-family:PingFang SC;
+line-height:auto;
+border-style:hidden;
+outline:none;
+width:108px;
+}
+.aggregationfunction
+{
+color:#5c5c5c;
+text-align:center;
+vertical-align:text-top;
+font-size:13.295404434204102px;
+font-family:PingFang SC;
+line-height:auto;
+border-style:hidden;
+outline:none;
+width:137px;
+}
+
+.hyperparameter, .option, .layer {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+
+  button {
+    width: 30px;
+    height: 30px;
+    margin: 0 5px;
+  }
+  .aggregationfunction
+{
+color:#5c5c5c;
+text-align:center;
+vertical-align:text-top;
+font-size:13.295404434204102px;
+font-family:PingFang SC;
+line-height:auto;
+border-style:hidden;
+outline:none;
+width:137px;
+}
+
+.hyperparameter
+{
+color:#000000;
+text-align:left;
+vertical-align:text-top;
+font-size:14px;
+font-family:PingFang SC;
+line-height:auto;
+border-style:hidden;
+outline:none;
+width:108px;
+}
+
+
+
+  
+  /* .icon {
+    margin-right: 10px; /* 在图标之间添加一些间距 */
+ /* } */
+
+  .icon-play {
+    transform: scale(3) /* 微调第二个图标的垂直位置 */
+  }
+
+  .icon-1play {
+    margin-right: 10px; /* 微调第二个图标的垂直位置 */
+  }
+  .icon-2play {
+    margin-left: 10px; /* 微调第二个图标的垂直位置 */
+  }
+  body {
+    font-family: "PingFang SC", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+
+  .icon {
+    transform: scale(1); /* 缩小到原来的 80% */
+  }

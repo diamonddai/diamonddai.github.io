@@ -1,0 +1,33 @@
+.list-item {
+    background-color: white;
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+
+
+.compact-select {
+  width: 75px;
+  font-size: 12px;
+  height: 20px;
+  .ant-select-selector {
+    height: 20px !important;
+    line-height: 18px !important; /* Align text vertically */
+  }
+  .ant-select-selection-item {
+    font-size: 12px;
+  }
+  .ant-select-dropdown {
+    font-size: 12px; /* Dropdown font size */
+  }
+}
+@font-face {
+  font-family: 'PingFang SC';
+  src: url('../../fonts/PingFang-SC-Regular/PingFang-SC-Regular.ttf') format('truetype');
+  font-display: swap;
+}
+
+body {
+  font-family: 'PingFang SC', sans-serif;
+}

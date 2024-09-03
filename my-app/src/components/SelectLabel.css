@@ -1,0 +1,39 @@
+/* SelectLabel.css */
+.select-label-container, .select-label-container * {
+  font-family: Arial, sans-serif;
+}
+
+/* Container for the tags */
+.select-label-container {
+    margin-left: 20px;
+    margin-right: 10px;
+  }
+  
+  /* Tag container with flex properties for wrapping */
+  .tag-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    max-height: 250px; /* Maximum height for the container */
+    overflow-y: auto; /* Add vertical scrolling */
+  }
+  
+  /* 针对 WebKit 内核浏览器 (如 Chrome, Safari 等) */
+.tag-container::-webkit-scrollbar {
+    width: 4px; /* 调整滚动条的宽度 */
+  }
+  
+  .tag-container::-webkit-scrollbar-track {
+    border-radius: 10px; /* 滚动条轨道的圆角 */
+  }
+  
+  .tag-container::-webkit-scrollbar-thumb {
+    background-color: #f3f3f3; /* 滚动条滑块的颜色，调淡一些 */
+    border-radius: 10px; /* 去掉边框 */
+    border: none; /* 确保没有边框 */
+  }
+  
+  .tag-container::-webkit-scrollbar-thumb:hover {
+    background-color: #c0c0c0; /* 滑块在 hover 时的颜色 */
+  }
+  

@@ -1,0 +1,94 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.classification-bar,
+.training-behavior-bar {
+  width: 100%;
+  height: 4vh; /* 确保足够的高度以容纳文字 */
+  background-color: white;
+  font-family: "PingFang SC", sans-serif;
+  font-size: 20px;
+  color: #000;
+  display: flex;
+  align-items: center; /* 确保文字垂直居中 */
+  justify-content: flex-start; /* 文字水平靠左 */
+  padding-left: 10px; /* 左侧边距 */
+  padding-top: 6px; /* 上方边距调整，根据实际效果微调 */
+  padding-bottom: 7px; /* 下方边距调整，根据实际效果微调 */
+  font-weight: 600;
+  margin-bottom: 10px; /* 下方边距 */
+}
+
+/* 更新Content的布局以符合设计 */
+.ant-layout-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 20px;
+  background: white;
+  border-radius: 5px;
+}
+
+/* 确保群体划分和训练结果的板块具有正确的内边距 */
+.visualization-panel,
+.training-panel {
+  width: 95vh;
+  padding: 12px 20px; /* 应用于折线图部分 */
+}
+
+/* .line-chart-container {
+  width: 100%;
+  height: 100vh;
+} */
+/*
+.visualization-panel {
+  height: 58vh; /* 群体划分的高度 
+}*/
+/* 
+.training-panel {
+  height: 20vh; 训练结果的高度 
+}*/
+
+/* 确保SVG容器使用了全部可用空间 */
+svg {
+  width: 100%;
+  height: 100%;
+  display: block; /* 避免不必要的边距 */
+  background-color: white;
+  margin: 0 auto;
+  /* overflow: visible; */
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+@font-face {
+  font-family: 'PingFang SC';
+  src: url('../fonts/PingFang-SC-Regular/PingFang-SC-Regular.ttf') format('truetype');
+  font-display: swap;
+}
+body {
+  font-family: 'PingFang SC','Segoe UI', 'Microsoft YaHei', sans-serif;
+}

@@ -1,0 +1,100 @@
+/* UserCard.css */
+  .user-card-avatar {
+    width: 59px;
+    height: 59px;
+    border-radius: 0;
+    margin-right: -6px;
+    margin-left: 5px;
+  }
+  
+  .user-card-title {
+    font-size: 7px; /* 修改标题的字体大小 */
+    color: black;
+    font-weight: bold;
+    font-family: Arial;
+  }
+  
+  .user-card-description {
+    line-height: 1.1;
+    font-size: 7px; /* 修改描述的字体大小 */
+    display: flex; /* 使用flex布局 */
+    flex-direction: column; /* 垂直排列元素 */
+    justify-content: center; /* 垂直居中对齐 */
+    align-items: start; /* 水平左对齐 */
+    font-family: Arial;
+  }
+  
+  
+  .user-card-detail {
+    margin: 1px 0; /* 调整详细信息的间距 */
+    font-size: 7px; /* 修改详细信息的字体大小 */
+    display: flex; /* 使用flex布局 */
+    justify-content: space-between; /* 标题和内容两列对齐 */
+    align-items: flex-start; /* 上对齐 */
+    flex-wrap: wrap;
+    font-family: Arial;
+  }
+  
+  .user-card-label {
+    color: black;
+    width: 30px; /* 确保标题栏宽度一致 */
+    text-align: left; /* 标题文字右对齐 */
+    font-weight:bold;
+    margin-right: 15px;
+    font-family: Arial;
+  }
+
+  .user-card-content {
+    color: '#5C5C5C';
+    width: 75px; /* 确保标题栏宽度一致 */
+    text-align: left; /* 标题文字右对齐 */
+    word-wrap: break-word; /* 长单词换行 */
+    font-family: Arial;
+  }
+  
+  .user-card-description > span {
+    margin-bottom: 8px; /* 增加 screenname 和 ID 之间的间距 */
+    font-family: Arial;
+  }
+  
+
+
+  .user-card-scrollable {
+    box-shadow: 0 1.5px 1.5px 0 rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    height: 95px;
+    overflow: hidden;
+    display: flex;
+    padding-top: 5px;
+    font-family: Arial;
+  }
+  
+  .user-card-inner {
+    overflow-y: auto; /* 内层容器滚动 */
+    overflow-x: hidden;
+    height: 100%;
+    width: 100%;
+    display: flex; /* 使头像和内容在同一行 */
+    align-items: flex-start;
+    padding-top: 5px;
+    font-family: Arial;
+  }
+  
+  .user-card-inner::-webkit-scrollbar {
+    width: 4px; /* 调整滚动条的宽度 */
+  }
+  
+  .user-card-inner::-webkit-scrollbar-thumb {
+    background-color: #f3f3f3; /* 滚动条滑块的颜色，调淡一些 */
+    border-radius: 10px; /* 去掉边框 */
+    border: none; /* 确保没有边框 */
+  }
+  
+  .user-card-inner::-webkit-scrollbar-track {
+    border-radius: 10px; /* 去掉边框 */
+  }
+  
+  .user-card-inner::-webkit-scrollbar-thumb:hover {
+    background-color: #c0c0c0; /* 滑块在 hover 时的颜色 */
+  }
+  

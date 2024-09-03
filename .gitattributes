@@ -1,0 +1,17 @@
+* text=auto
+*.txt text
+*.py text
+*.md text
+*.html text
+*.css text
+*.js text
+*.json text
+*.yml text
+*.yaml text
+*.ini text
+
+# 对于特定的二进制文件，确保它们不会被修改
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary

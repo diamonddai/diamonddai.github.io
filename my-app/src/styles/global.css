@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'PingFang SC';
+    src: url('../fonts/PingFang-SC-Regular/PingFang-SC-Regular.eot'); /* IE9+ */
+    src: url('../fonts/PingFang-SC-Regular/PingFang-SC-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+@font-face {
+    font-family: 'PingFang SC';
+    src: url('../fonts/PingFang-SC-Bold/PingFang-SC-Bold.eot'); /* IE9+ */
+    src: url('../fonts/PingFang-SC-Bold/PingFang-SC-Bold.ttf') format('truetype'); /* Safari, Android, iOS */
+    font-weight: bold;
+    font-style: normal;
+  }
+  

@@ -1,0 +1,55 @@
+/* CheckboxGroup.css */
+.checkbox-group {
+  padding-left: 20px; /* 调整这个值来增加左侧的空隙 */
+  padding-top: 3px;
+}
+
+.checkbox-item {
+  margin-top: 2px;
+}
+
+
+.ant-checkbox-wrapper {
+  font-size: 12px; /* 调整字体大小 */
+}
+
+
+.custom-checkbox-post .ant-checkbox-inner {
+    border-color: #027d8e;
+  }
+  
+  .custom-checkbox-post .ant-checkbox-checked .ant-checkbox-inner {
+    background-color: #027d8e;
+    border-color: #027d8e;
+  }
+  
+  .custom-checkbox-post .ant-checkbox-checked::after {
+    border-color: #027d8e;
+  }
+  
+  .custom-checkbox-repost .ant-checkbox-inner {
+    border-color: #63abfd;
+  }
+  
+  .custom-checkbox-repost .ant-checkbox-checked .ant-checkbox-inner {
+    background-color: #63abfd;
+    border-color: #63abfd;
+  }
+  
+  .custom-checkbox-repost .ant-checkbox-checked::after {
+    border-color: #63abfd;
+  }
+  
+  .custom-checkbox-reply .ant-checkbox-inner {
+    border-color: #e697ff;
+  }
+  
+  .custom-checkbox-reply .ant-checkbox-checked .ant-checkbox-inner {
+    background-color: #e697ff;
+    border-color: #e697ff;
+  }
+  
+  .custom-checkbox-reply .ant-checkbox-checked::after {
+    border-color: #e697ff;
+  }
+  
